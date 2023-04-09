@@ -39,5 +39,9 @@
   },
   "engines": {
     "node": ">=16.14"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/oussamaElAmrani01/testt.github.io.git",
+  "author": "=oussamaElAmrani01 <=oussama.elamrani4@usmba.ac.ma>",
+  "license": "MIT"
 }
